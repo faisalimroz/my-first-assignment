@@ -12,13 +12,27 @@ h2{
     float: left;
     margin-left: 5%;
     padding-left: 5%;
-    height: 100px;
+    height: 350px;
 }
 .half-width img{
-    width: 50%;
+    width: 60%;
 }
 .link-button{
     background-color: orange;
     padding: 5px;
     text-decoration: none;
+}
+a{
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    text-align: justify;
+    text-decoration: bold;
+    font-size: 25px;
+}
+.half-width p{
+    padding-right: 10%;
+}
+.half-width h1{
+    margin-top: 10%;
 }
