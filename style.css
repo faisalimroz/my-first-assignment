@@ -29,10 +29,8 @@ p{
     text-align: justify;
     text-decoration: bold;
     font-size: 25px;
+    padding-right: 20%;
 }
-.half-width p{
-    padding-right: 10%;
-}
-.half-width h1{
+h1{
     margin-top: 10%;
 }
