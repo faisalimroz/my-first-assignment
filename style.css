@@ -86,3 +86,52 @@ h1{
    border-image-slice: 1;
 
 }
+h1{
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    
+    
+}
+.work{
+    color:white;
+}
+p{
+    font-size: 20px;
+    
+    font-family: 'Roboto', sans-serif;
+}
+.last{
+  background-color: blue;  
+  height: 125px;
+  width:700px;
+  margin-left: 25%;
+  margin-bottom: 5px;
+
+  
+}
+
+h1{
+    text-align: left;
+   
+}
+.lets-chat{
+   margin-left: 500px;
+   
+   
+}
+.work{
+    margin-left: 15px;
+    
+}
+.link-button{
+    border-radius: 5px;
+   
+    color: white;
+    position: relative;
+    
+
+}
+.last{
+    border-radius: 10px;
+}
+
