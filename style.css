@@ -8,6 +8,10 @@ h2{
 .design{
     color: rgb(255, 177, 32);
 }
+.align{
+    padding-left: 18px;
+}
+
 .half-width{
     width: 40%;
     float: left;
